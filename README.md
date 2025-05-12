@@ -1,6 +1,6 @@
 **Fine-Tuning an African Language Model: A Beginner’s Guide for Aspiring AI Researchers**
 
-This project is designed as a beginner-friendly, step-by-step guide for aspiring AI researchers in Africa—and beyond—who want to fine-tune AI models on low-resource languages. The tutorial walks you through the full pipeline of fine-tuning a machine translation model from English to Yoruba using a pre-trained model (castorini/afriteva_base), demonstrating how local data can be used to make AI more inclusive and context-aware.
+This project is designed as a beginner-friendly, step-by-step guide for aspiring AI researchers in Africa and beyond who want to fine-tune AI models on low-resource languages. The tutorial walks you through the full pipeline of fine-tuning a machine translation model from English to Yoruba using a pre-trained model (castorini/afriteva_base), demonstrating how local data can be used to make AI more inclusive and context-aware.
 
 **Why This Project Matters**
 
